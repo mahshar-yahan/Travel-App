@@ -22,5 +22,5 @@ ExploreHub is designed to be a comprehensive travel guide, offering insights int
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/explorehub.git
+git clone https://github.com/mahshar-yahan/Travel-App.git
 cd explorehub
